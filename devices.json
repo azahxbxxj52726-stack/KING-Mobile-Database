@@ -1,0 +1,16 @@
+{
+  "app": "KING Mobile Repair",
+  "version": 1,
+  "devices": [
+    {
+      "brand": "Samsung",
+      "model": "Galaxy A12",
+      "resources": {
+        "schematic": "",
+        "boardview": "",
+        "firmware": "",
+        "repair_guide": ""
+      }
+    }
+  ]
+}
